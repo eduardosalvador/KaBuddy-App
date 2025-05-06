@@ -28,4 +28,4 @@ In order to help you understand where your income is going to, it's important to
 
 
 ## Contact
-In case you have found any issues or have any questions, please feel free to get in touch with me. Should you happen to have a github account, you can also open an issue, I'll look into it asap.
+In case you have found any issues or have any suggestion or questions, please feel free to get in touch with me: roads-fees-3x@icloud.com. Should you happen to have a github account, you can also open an issue, I'll look into it asap.
