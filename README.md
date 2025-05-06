@@ -26,6 +26,10 @@ In order to help you understand where your income is going to, it's important to
 5. Log everything you buy immediately under the four categories **needs**, **culture**, **wants** and **unexpected**
 6. Get involved with the four basic questions of kakeibo and ask yourself what you can do better
 
+## Privacy Policy
+
+EN - No data collected from KaBuddy.
+DE - Keine Daten werden über KaBuddy gesammelt
 
 ## Contact
 In case you have found any issues or have any suggestion or questions, please feel free to get in touch with me: roads-fees-3x@icloud.com. Should you happen to have a github account, you can also open an issue, I'll look into it asap.
