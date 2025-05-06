@@ -1,4 +1,8 @@
-# KaBuddy-App
+<picture>
+  <img src="https://github.com/user-attachments/assets/73ee4d0d-7fad-4902-a0c2-7e9664f2af2b" alt="KaBuddy" height="70">
+</picture>
+
+# KaBuddy
 FAQ and contact information for KaBuddy
 
 ## Introduction
