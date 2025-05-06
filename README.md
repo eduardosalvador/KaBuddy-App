@@ -1,9 +1,4 @@
-<picture>
-  <img src="https://github.com/user-attachments/assets/73ee4d0d-7fad-4902-a0c2-7e9664f2af2b" alt="KaBuddy" height="70">
-</picture>
-
 # KaBuddy
-FAQ and contact information for KaBuddy
 
 ## Introduction
 KaBuddy is a personal ledger based on the Japanese savings method kakeibo. Kakeibo (Japanese: 家計簿) is a saving method developed by the Japanese journalist Motoko Hani more than 100 years ago. It simply means **household ledger** und basically describes a way to manage your household finances. Kakeibo aims at arising awareness of your own comsuption habits, developping a sustainable, long term approach for saving money.
